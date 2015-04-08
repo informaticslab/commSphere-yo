@@ -1,8 +1,6 @@
 CommSphere
 ======
 
-Integrated Surveillance Portal
-
 # Quick setup guide
 
 # Requirements
